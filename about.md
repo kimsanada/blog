@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Saya seorang blogger yang mulai berkelana di linimasa sejak tahun 2009. Blog pertama saya masih bisa diakses di https://kimsanada.wordpress.com, lalu saya mencoba menambah blog di https://muhnurulhakim.com.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+### [Contact me](https://t.me/muhnurulhakim)
