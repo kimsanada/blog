@@ -1,9 +1,7 @@
 ---
 Layout: post
-Title: Lintas Waktu
+Title: Perjalanan Lintas Waktu
 ---
-
-## Perjalanan Lintas Waktu
 
 Ini bukan persoalan menembus waktu ke masa depan atau balik lagi ke masa lalu.
 
