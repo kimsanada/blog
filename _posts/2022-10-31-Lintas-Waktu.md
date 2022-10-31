@@ -2,7 +2,9 @@
 Layout: post
 Title: Lintas Waktu
 ---
+
 ##Perjalanan Lintas Waktu
+
 Ini bukan persoalan menembus waktu ke masa depan atau balik lagi ke masa lalu.
 
 Ini adalah perkara bagaimana kamu mengalahkan dirimu sendiri.
