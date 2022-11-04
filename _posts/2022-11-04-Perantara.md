@@ -12,6 +12,6 @@ Kebayang obrolan saya dengan seorang teman. Ia pernah mengatakan kalo saya itu t
 
 Saya coba menelisik ke dalam diri, sambil mikir: kira-kira masalah siapa dan masalah apa yang bisa saya selesaikan sebagai _middle-man_ dengan SaaS?
 
-![Connectingthedots](https://github.com/kimsanada/blog/blob/utama/images/1%20bWlWqZZz_ytykXwVw6i5bQ.png)
+![Connecting the dots](https://github.com/kimsanada/blog/blob/utama/images/1%20bWlWqZZz_ytykXwVw6i5bQ.png)
 
-[Sumber gambar](https://www.linkedin.com/pulse/most-important-skill-future-ability-connect-dots-your-fabio-moioli/?trackingId=5c2a%2BPSsRJCz3zF61AoVKA%3D%3D)
+Sumber gambar: https://www.linkedin.com/pulse/most-important-skill-future-ability-connect-dots-your-fabio-moioli/?trackingId=5c2a%2BPSsRJCz3zF61AoVKA%3D%3D
